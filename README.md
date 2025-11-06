@@ -1,6 +1,6 @@
 # Landing Page Template Customizer
 
-A lightweight tool for creating customized landing pages in minutes. Users select from pre-built templates (inspired by real-world projects like [Sharpchoice](https://sharpchoice.example.com) and [Ravensnest](https://ravensnest.example.com)), tweak text, colors, and images, and export a static HTML/CSS/JS bundle. Designed to help freelancers, real estate agents, and small businesses get a professional online presence fast—while offering premium customization services for advanced needs.
+A lightweight tool for creating customized landing pages in minutes. Users select from pre-built templates (inspired by real-world projects like [Sharpchoice](https://sharpchoicerealestate.com) and [Ravensnest](https://ravensnest.ink)), tweak text, colors, and images, and export a static HTML/CSS/JS bundle. Designed to help freelancers, real estate agents, and small businesses get a professional online presence fast—while offering premium customization services for advanced needs.
 
 **Live Demo**: [Try it here](#) (replace with your deployed URL)  
 **Built by**: Jake Silveira ([Portfolio](#) | [Contact for Custom Dev](#))
@@ -9,7 +9,7 @@ A lightweight tool for creating customized landing pages in minutes. Users selec
 
 ## Why This Tool?
 
-This project showcases my web dev expertise in building responsive, user-friendly interfaces with vanilla JavaScript, Supabase, and Node.js. It provides a free, easy-to-use solution for creating static landing pages, but for dynamic features like user auth, real-time data, or hosting, users can hire me for custom development. Whether you're a real estate pro needing a Sharpchoice-style site or a freelancer wanting a portfolio, this tool is your starting point.
+This project showcases my web dev expertise in building responsive, user-friendly interfaces with vanilla JavaScript, Supabase, and Node.js. It provides a free, easy-to-use solution for creating static landing pages, but for dynamic features like user auth, real-time data, or hosting, users can hire me for custom development. Whether you're a real estate pro needing a top of the line site or a freelancer wanting a portfolio, this tool is your starting point.
 
 ---
 
