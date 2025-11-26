@@ -1,4 +1,4 @@
-# Landing Page Template Customizer - Roadmap
+# Stella - Roadmap
 
 ## Phase 0: Setup and Foundation
 - ~~Create project directory structure~~
@@ -8,6 +8,7 @@
 - ~~Research required libraries (JSZip, Supabase JS client)~~
 
 ## Phase 1: Core Frontend Structure
+- Build landing page HTML
 - Build basic HTML structure for customizer UI
 - Create navigation system
 - Design template gallery section

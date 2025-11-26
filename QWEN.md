@@ -1,7 +1,7 @@
-# Landing Page Template Customizer - Project Context
+# Stella - Project Context
 
 ## Project Overview
-This is a personal learning project designed to push your web development skills to the limit and serve as both a practical tool and a lead generation mechanism for custom web development services. The goal is to create a lightweight tool for building customized landing pages with pre-built templates that users can customize and export as static HTML/CSS/JS bundles.
+This is a personal learning project designed to push your web development skills to the limit and serve as both a practical tool and a lead generation mechanism for custom web development services. The goal is to create Stella, a lightweight tool for building customized landing pages with pre-built templates that users can customize and export as static HTML/CSS/JS bundles.
 
 ## Current State
 The repository currently contains only a README.md file describing the project concept and planned features. The actual implementation is pending and will serve as your learning journey.
