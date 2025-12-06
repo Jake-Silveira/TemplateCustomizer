@@ -8,12 +8,12 @@
 
   <!-- SEO -->
   <title>Stella | Free Website Templates</title>
-  <meta name="description" content="Stella has developed a tool for creating customized landing pages in minutes. Users select from pre-built templates (inspired by real-world projects) and tweak them to their heart's content.">
+  <meta name="description" content="JakeDesigns has developed Stella for creating customized landing pages in minutes. Users select from pre-built templates (inspired by real-world projects) and tweak them to their heart's content.">
   <meta name="keywords" content="Web design, Landing page, Free website, Free template">
   <meta name="author" content="Jake Silveira">
   <link rel="canonical" href="https://stellapages.com"/>
-  <link rel="preload" href="css/styles.css" as="style">
-  <link rel="preload" href="js/scripts.js" as="script">
+  <link rel="preload" href="styles.css" as="style">
+  <link rel="preload" href="scripts.js" as="script">
   <link rel="dns-prefetch" href="//fonts.googleapis.com">
 
   <!-- Open Graph -->
@@ -49,15 +49,18 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+
+  <script src="scripts.js" defer></script>
 </head>
 <body>
+  <div id="startupDisplay">
+  </div>
     <!-- HEADER -->
   <header class="site-header" aria-label="Site header">
     <div class="container header-inner">
-      <div class="brand">
-        <a href="/" aria-label="Stella - Home">
-</a>
-          <img src="assets/logo.png" alt="TemplateCustomizer logo" class="brand-logo" loading="lazy" />
+      <div class="brand" id="brand">
+        <a href="/" aria-label="Stella - Home"></a>
+          <img src="assets/logo.png" alt="Stella logo" class="brand-logo" id="brand-logo" loading="lazy" />
         </a>
         <div class="brand-text">
           <h1 class="brand-name">Stella</h1>
@@ -76,7 +79,7 @@
         </nav>
       </div>
       <div class="loginBtn">
-        <button class="CTA btn">Log In</button>
+        <button class="CTA btn" id="navLogin">Log In</button>
       </div>
     </div>
   </header>
@@ -95,14 +98,13 @@
               </div>
             </div>
             <div class="hero-media">
-              <img src="assets/hero.png" alt="Template Customizer Inspired" loading="lazy" />
+              <img src="assets/hero.png" alt="Stella Inspired" loading="lazy" />
             </div>
           </div>
         </section>
         <!-- REVIEWS BLOCK -->
         <div class="reviews">
           <div class="social-links">
-            <a href="tel:+15125672807">
             <a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer" aria-label="Follow me on Facebook">
               <img src="assets/facebook_logo.svg" alt="Facebook icon" class="social-icon" loading="lazy">
             </a>
