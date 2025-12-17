@@ -87,7 +87,7 @@
     <main id="main-content">
       <div class="content-container">
         <!-- HERO -->
-        <section id="hero" class="fade-on-scroll">
+        <section id="hero">
           <div class="container hero-inner">
             <div class="hero-text">
               <h2>Start Designing For Free!</h2>
@@ -95,6 +95,14 @@
               <div class="hero-buttons">
                 <a href="#freetemplates" class="btn">Start Designing</a>
                 <a href="#examples" class="btn-outline">Our Showcase</a>
+              </div>
+              <div class="social-links">
+                <a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer" aria-label="Follow me on Facebook">
+                  <img src="assets/facebook_logo.svg" alt="Facebook icon" class="social-icon" loading="lazy">
+                </a>
+                <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer" aria-label="Follow me on Instagram">
+                  <img src="assets/instagram_logo.svg" alt="Instagram icon" class="social-icon" loading="lazy">
+                </a>
               </div>
             </div>
             <div class="hero-media">
@@ -104,14 +112,20 @@
         </section>
         <!-- REVIEWS BLOCK -->
         <div class="reviews">
-          <div class="social-links">
-            <a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer" aria-label="Follow me on Facebook">
-              <img src="assets/facebook_logo.svg" alt="Facebook icon" class="social-icon" loading="lazy">
-            </a>
-            <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer" aria-label="Follow me on Instagram">
-              <img src="assets/instagram_logo.svg" alt="Instagram icon" class="social-icon" loading="lazy">
-            </a>
+          <button class="previousReviewBtn reviewNav"><</button>
+          <div class="reviewContainer">
+            <div class="reviewerImage">
+              <img id="reviewerImage" src="assets/reviewStockPhoto.jpg">
+            </div>
+            <div class="reviewContent">
+              <div class="reviewerText">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cursus elementum magna ut duis pulvinar tincidunt vivamus adipiscing quam. Eget dui quis etiam sed eget sed est.
+              </div>
+              <span class="reviewStars"></span>
+              <span class="reviewerName">Jane Doe</span>
+            </div>
           </div>
+          <button class="nextReviewBtn reviewNav">></button>
         </div>
       </div>
     </main>
