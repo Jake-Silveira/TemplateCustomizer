@@ -386,7 +386,7 @@ body{
     margin: 1rem auto 0; /* Add top margin and center */
 }
 .reviewNav{
-    height: 15rem;
+    height: 25rem;
     font-size: 2rem;
     font-weight: 1000;
     color: var(--color-accent-orange);
@@ -428,10 +428,21 @@ body{
 
 .reviewContent{
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 2rem;
+    gap: 3px;
     color: var(--color-border);
+}
+
+.reviewStars{
+    color: var(--color-primary);
+    font-size: 2rem;
+}
+
+.reviewerName{
+    color: var(--color-text);
+    font-size: 2rem;
 }
 
 /* Mobile adjustments for hero section */
