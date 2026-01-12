@@ -345,7 +345,7 @@ body{
     font-size: 0.9rem; /* Reduced font size */
 }
 
-.social-links {
+#social-links {
     display: flex;
     gap: 5rem;
 }

@@ -8,7 +8,7 @@
 - ~~Research required libraries (JSZip, Supabase JS client)~~
 
 ## Phase 1: Core Frontend Structure
-- Build landing page HTML
+- ~~Build landing page HTML~~
 - Build basic HTML structure for customizer UI
 - Create navigation system
 - Design template gallery section
